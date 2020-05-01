@@ -1,5 +1,14 @@
 # Changelog
 
+### [2.0.1](https://www.github.com/googleapis/nodejs-iot/compare/v2.0.0...v2.0.1) (2020-05-01)
+
+
+### Bug Fixes
+
+* remove unused file, fix synth ([#309](https://www.github.com/googleapis/nodejs-iot/issues/309)) ([17b2ddc](https://www.github.com/googleapis/nodejs-iot/commit/17b2ddccc72a91023a348a0dbf13705670e0c0ca))
+* **deps:** update dependency @google-cloud/iot to v2 ([#326](https://www.github.com/googleapis/nodejs-iot/issues/326)) ([37a9faf](https://www.github.com/googleapis/nodejs-iot/commit/37a9faf5bece0d08b3205baa4e8e4505b07cbd73))
+* **deps:** update dependency googleapis to v49 ([#327](https://www.github.com/googleapis/nodejs-iot/issues/327)) ([e1fee34](https://www.github.com/googleapis/nodejs-iot/commit/e1fee342fa0eedb2ec9f0d1c0ed9e20da2b1cd6c))
+
 ## [2.0.0](https://www.github.com/googleapis/nodejs-iot/compare/v1.8.0...v2.0.0) (2020-04-12)
 
 
